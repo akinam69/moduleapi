@@ -1,0 +1,80 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "attributes": {
+                "name": "Hardware and Files Management",
+                "createdAt": "2022-12-30T20:50:44.856Z",
+                "updatedAt": "2022-12-30T20:50:56.696Z",
+                "publishedAt": "2022-12-30T20:50:56.054Z",
+                "questions": {
+                    "data": [
+                        {
+                            "id": 1,
+                            "attributes": {
+                                "question": "what is OS?",
+                                "answer": "Operating System",
+                                "createdAt": "2023-01-01T01:06:52.594Z",
+                                "updatedAt": "2023-01-01T01:07:02.955Z",
+                                "publishedAt": "2023-01-01T01:07:02.471Z"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 2,
+            "attributes": {
+                "name": "Test one",
+                "createdAt": "2022-12-30T17:53:54.805Z",
+                "updatedAt": "2022-12-30T17:53:57.696Z",
+                "publishedAt": "2022-12-30T17:53:57.689Z",
+                "questions": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "id": 3,
+            "attributes": {
+                "name": "Graphic Design",
+                "createdAt": "2022-12-31T20:38:58.028Z",
+                "updatedAt": "2022-12-31T20:39:00.550Z",
+                "publishedAt": "2022-12-31T20:39:00.543Z",
+                "questions": {
+                    "data": [
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "question": "What is pixel?",
+                                "answer": "smallest unit in digital image",
+                                "createdAt": "2022-12-31T20:40:21.338Z",
+                                "updatedAt": "2022-12-31T20:40:24.268Z",
+                                "publishedAt": "2022-12-31T20:40:24.261Z"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "attributes": {
+                                "question": "What is resolution?",
+                                "answer": "Multiplication of width and height",
+                                "createdAt": "2022-12-31T20:41:14.776Z",
+                                "updatedAt": "2022-12-31T20:41:17.769Z",
+                                "publishedAt": "2022-12-31T20:41:17.762Z"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 3
+        }
+    }
+}
