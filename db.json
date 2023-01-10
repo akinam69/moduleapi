@@ -42,30 +42,30 @@
                         {
                             "id": 4,
                             "attributes": {
-                                "question": "What is Primary Key in an Entity?",
+                                "question": "What is primary key in an entity?",
                                 "answer": "In a database, a primary key is a field (or combination of fields) that uniquely identifies each record in a table. The primary key is used to enforce the entity integrity of the table, as it ensures that no two records have the same key value.",
                                 "createdAt": "2023-01-10T05:32:04.115Z",
-                                "updatedAt": "2023-01-10T05:32:05.803Z",
+                                "updatedAt": "2023-01-10T14:22:11.808Z",
                                 "publishedAt": "2023-01-10T05:32:05.800Z"
                             }
                         },
                         {
                             "id": 5,
                             "attributes": {
-                                "question": "What is Foreign Key?",
+                                "question": "What is foreign key?",
                                 "answer": "A foreign key is a field (or combination of fields) in a database table that refers to the primary key of another table. The purpose of the foreign key is to establish a link between the two tables, allowing data in one table to be related to data in the other table.",
                                 "createdAt": "2023-01-10T05:33:34.027Z",
-                                "updatedAt": "2023-01-10T05:33:36.177Z",
+                                "updatedAt": "2023-01-10T14:22:39.637Z",
                                 "publishedAt": "2023-01-10T05:33:36.176Z"
                             }
                         },
                         {
                             "id": 6,
                             "attributes": {
-                                "question": "Why we need Normalization?",
+                                "question": "Why we need normalization?",
                                 "answer": "Normalization is the process of organizing a database in a way that reduces redundancy and dependency. It is an important step in database design, as it helps to improve the efficiency, performance, and integrity of the database.",
                                 "createdAt": "2023-01-10T05:36:25.178Z",
-                                "updatedAt": "2023-01-10T05:36:27.044Z",
+                                "updatedAt": "2023-01-10T14:23:47.592Z",
                                 "publishedAt": "2023-01-10T05:36:27.043Z"
                             }
                         },
@@ -175,10 +175,10 @@
                         {
                             "id": 16,
                             "attributes": {
-                                "question": "What is Raster Graphics?",
+                                "question": "What is raster graphics?",
                                 "answer": "Raster graphics, also known as bitmap graphics, is a type of digital image that is made up of a grid of pixels. Each pixel in a raster image represents a specific color and brightness, and when viewed from a distance, the pixels combine to create the overall image.",
                                 "createdAt": "2023-01-10T07:07:56.934Z",
-                                "updatedAt": "2023-01-10T07:07:58.653Z",
+                                "updatedAt": "2023-01-10T14:23:06.311Z",
                                 "publishedAt": "2023-01-10T07:07:58.651Z"
                             }
                         },
@@ -254,7 +254,108 @@
                 "updatedAt": "2023-01-10T05:11:14.897Z",
                 "publishedAt": "2023-01-10T05:11:14.895Z",
                 "questions": {
-                    "data": []
+                    "data": [
+                        {
+                            "id": 23,
+                            "attributes": {
+                                "question": "What is algorithm?",
+                                "answer": "An algorithm is a set of instructions or steps that are followed in order to perform a specific task or solve a specific problem. ",
+                                "createdAt": "2023-01-10T13:52:15.230Z",
+                                "updatedAt": "2023-01-10T13:52:18.058Z",
+                                "publishedAt": "2023-01-10T13:52:18.056Z"
+                            }
+                        },
+                        {
+                            "id": 24,
+                            "attributes": {
+                                "question": "What are the programming approaches?",
+                                "answer": "Imperative programming, Object-oriented programming (OOP), Functional programming, Logic programming, Scripting, Event-driven programming",
+                                "createdAt": "2023-01-10T13:55:45.718Z",
+                                "updatedAt": "2023-01-10T13:55:47.295Z",
+                                "publishedAt": "2023-01-10T13:55:47.292Z"
+                            }
+                        },
+                        {
+                            "id": 25,
+                            "attributes": {
+                                "question": "What is OOP?",
+                                "answer": "Object-oriented programming (OOP) is a programming paradigm that is based on the concept of \"objects\", which can be thought of as instances of a class. A class defines a blueprint for an object, which includes both data (attributes) and behavior (methods).",
+                                "createdAt": "2023-01-10T13:58:28.929Z",
+                                "updatedAt": "2023-01-10T13:58:30.574Z",
+                                "publishedAt": "2023-01-10T13:58:30.572Z"
+                            }
+                        },
+                        {
+                            "id": 26,
+                            "attributes": {
+                                "question": "What are the main OOP concepts?",
+                                "answer": "Abstraction, Encapsulation, Inheritance, Polymorphism",
+                                "createdAt": "2023-01-10T14:03:12.795Z",
+                                "updatedAt": "2023-01-10T14:03:14.758Z",
+                                "publishedAt": "2023-01-10T14:03:14.757Z"
+                            }
+                        },
+                        {
+                            "id": 27,
+                            "attributes": {
+                                "question": "What is the difference between low-level and high-level languages?",
+                                "answer": "The main difference between low level languages and high level languages is in the level of abstraction that they provide. High level languages tend to be more abstract and closer to natural language, making them easier to learn and use. Low-level languages are more closely tied to the specific architecture and workings of the computer.",
+                                "createdAt": "2023-01-10T14:06:46.800Z",
+                                "updatedAt": "2023-01-10T14:06:48.538Z",
+                                "publishedAt": "2023-01-10T14:06:48.535Z"
+                            }
+                        },
+                        {
+                            "id": 28,
+                            "attributes": {
+                                "question": "What is IDE?",
+                                "answer": "An Integrated Development Environment (IDE) is a software application that provides a comprehensive environment for software development.",
+                                "createdAt": "2023-01-10T14:08:47.333Z",
+                                "updatedAt": "2023-01-10T14:08:48.945Z",
+                                "publishedAt": "2023-01-10T14:08:48.943Z"
+                            }
+                        },
+                        {
+                            "id": 29,
+                            "attributes": {
+                                "question": "What is compiler?",
+                                "answer": "A compiler is a type of computer program that translates source code written in a programming language into machine code that can be executed by a computer's central processing unit (CPU).",
+                                "createdAt": "2023-01-10T14:11:00.555Z",
+                                "updatedAt": "2023-01-10T14:11:02.483Z",
+                                "publishedAt": "2023-01-10T14:11:02.481Z"
+                            }
+                        },
+                        {
+                            "id": 30,
+                            "attributes": {
+                                "question": "Difference between compiling and interpreting languages?",
+                                "answer": "The main difference between these two is that when a program is compiled, the source code is translated into machine code before the program is executed, while interpreting source code reads it and performs the actions line by line at runtime.",
+                                "createdAt": "2023-01-10T14:13:51.389Z",
+                                "updatedAt": "2023-01-10T14:13:52.985Z",
+                                "publishedAt": "2023-01-10T14:13:52.983Z"
+                            }
+                        },
+                        {
+                            "id": 31,
+                            "attributes": {
+                                "question": "Difference between bug and debug in programming?",
+                                "answer": "A bug is an error in the program that causes it to behave unexpectedly and debugging is the process of identifying and fixing bugs.",
+                                "createdAt": "2023-01-10T14:16:30.830Z",
+                                "updatedAt": "2023-01-10T14:16:32.340Z",
+                                "publishedAt": "2023-01-10T14:16:32.338Z"
+                            }
+                        },
+                        {
+                            "id": 32,
+                            "attributes": {
+                                "question": "What is exception handling in programming?",
+                                "answer": "Exception handling is a mechanism that allows a program to handle errors and exceptional conditions that may occur during execution, it is implemented using try-catch blocks, which enclose the code that may throw an exception and the code that will handle the exception.",
+                                "createdAt": "2023-01-10T14:21:15.432Z",
+                                "updatedAt": "2023-01-10T14:21:17.082Z",
+                                "publishedAt": "2023-01-10T14:21:17.080Z"
+                            }
+                        }
+                    ]
                 }
             }
         },
